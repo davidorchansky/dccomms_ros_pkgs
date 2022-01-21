@@ -12,7 +12,7 @@ ROS packages with network simulation utilities. The NS3 library is used, which h
 The C++ compiler must support C\+\+11, C\+\+14 and C\+\+17 (tested in Ubuntu 20.04).
 
 ### Install and Build
-Clone this repository into the src folder of your catkin workspace with the *--recursive* option and build the workspace:
+Clone this repository into the src folder of your workspace with the *--recursive* option and build the workspace:
 ```bash
 ~/ros_ws/src$ git clone --recursive --branch ros-galactic https://github.com/davidorchansky/dccomms_ros_pkgs.git
 ~/ros_ws/src$ cd ..
